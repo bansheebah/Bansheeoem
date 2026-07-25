@@ -1,0 +1,7 @@
+beautifulsoup4>=4.12,<5
+lxml>=5.0,<7
+openpyxl>=3.1,<4
+requests>=2.31,<3
+# Optional: install with `python -m playwright install chromium` for --browser mode.
+playwright>=1.45,<2
+

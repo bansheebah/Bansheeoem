@@ -1,0 +1,42 @@
+# One section and URL per line.  The scraper validates the page title and records
+# the detected title, so a stale Parts House URL cannot silently be mislabeled.
+Carburetor|https://www.yamahapartshouse.com/oemparts/a/yam/500392bdf870021f60a0dcc0/carburetor
+Clutch|https://www.yamahapartshouse.com/oemparts/a/yam/500392bef870021f60a0dcc5/clutch
+Crankcase|https://www.yamahapartshouse.com/oemparts/a/yam/500392bdf870021f60a0dcc2/crankcase
+Crankcase Cover 1|https://www.yamahapartshouse.com/oemparts/a/yam/500392bef870021f60a0dcc3/crankcase-cover-1
+Crankshaft / Piston|https://www.yamahapartshouse.com/oemparts/a/yam/500392bcf870021f60a0dcbc/crankshaft-piston
+Cylinder|https://www.yamahapartshouse.com/oemparts/a/yam/500392bcf870021f60a0dcbb/cylinder
+Electrical 1|https://www.yamahapartshouse.com/oemparts/a/yam/500392c3f870021f60a0dce0/electrical-1
+Emblem / Label 1|https://www.yamahapartshouse.com/oemparts/a/yam/500392c3f870021f60a0dce1/emblem-label-1
+Exhaust|https://www.yamahapartshouse.com/oemparts/a/yam/500392bdf870021f60a0dcc1/exhaust
+Frame|https://www.yamahapartshouse.com/oemparts/a/yam/500392bff870021f60a0dcc9/frame
+Front Brake Caliper|https://www.yamahapartshouse.com/oemparts/a/yam/500392c1f870021f60a0dcd4/front-brake-caliper
+Front Fender|https://www.yamahapartshouse.com/oemparts/a/yam/500392bff870021f60a0dcca/front-fender
+Front Master Cylinder|https://www.yamahapartshouse.com/oemparts/a/yam/500392c2f870021f60a0dcd8/front-master-cylinder
+Front Suspension / Wheel|https://www.yamahapartshouse.com/oemparts/a/yam/500392c0f870021f60a0dcd0/front-suspension-wheel
+Front Wheel|https://www.yamahapartshouse.com/oemparts/a/yam/500392c1f870021f60a0dcd3/front-wheel
+Fuel Tank|https://www.yamahapartshouse.com/oemparts/a/yam/500392c0f870021f60a0dcd1/fuel-tank
+Generator|https://www.yamahapartshouse.com/oemparts/a/yam/500392c3f870021f60a0dcdc/generator
+Guard|https://www.yamahapartshouse.com/oemparts/a/yam/500392c2f870021f60a0dcdb/guard
+Handle Switch / Lever|https://www.yamahapartshouse.com/oemparts/a/yam/500392c3f870021f60a0dcdf/handle-switch-lever
+Headlight|https://www.yamahapartshouse.com/oemparts/a/yam/500392c3f870021f60a0dcdd/headlight
+Intake|https://www.yamahapartshouse.com/oemparts/a/yam/500392bdf870021f60a0dcbf/intake
+Radiator / Hose|https://www.yamahapartshouse.com/oemparts/a/yam/500392bdf870021f60a0dcbe/radiator-hose
+Rear Arm|https://www.yamahapartshouse.com/oemparts/a/yam/500392c0f870021f60a0dccd/rear-arm
+Rear Brake Caliper|https://www.yamahapartshouse.com/oemparts/a/yam/500392c1f870021f60a0dcd6/rear-brake-caliper
+Rear Fender|https://www.yamahapartshouse.com/oemparts/a/yam/500392bff870021f60a0dccb/rear-fender
+Rear Master Cylinder|https://www.yamahapartshouse.com/oemparts/a/yam/500392c2f870021f60a0dcda/rear-master-cylinder
+Rear Suspension|https://www.yamahapartshouse.com/oemparts/a/yam/500392c0f870021f60a0dcce/rear-suspension
+Rear Wheel|https://www.yamahapartshouse.com/oemparts/a/yam/500392c1f870021f60a0dcd5/rear-wheel
+Seat|https://www.yamahapartshouse.com/oemparts/a/yam/500392c1f870021f60a0dcd2/seat
+Shift Cam / Fork|https://www.yamahapartshouse.com/oemparts/a/yam/500392bef870021f60a0dcc7/shift-cam-fork
+Shift Shaft|https://www.yamahapartshouse.com/oemparts/a/yam/500392bff870021f60a0dcc8/shift-shaft
+Side Cover|https://www.yamahapartshouse.com/oemparts/a/yam/500392bff870021f60a0dccc/side-cover
+Stand / Footrest|https://www.yamahapartshouse.com/oemparts/a/yam/500392c2f870021f60a0dcd9/stand-footrest
+Starter|https://www.yamahapartshouse.com/oemparts/a/yam/500392bef870021f60a0dcc4/starter
+Steering|https://www.yamahapartshouse.com/oemparts/a/yam/500392c0f870021f60a0dccf/steering
+Steering Handle / Cable|https://www.yamahapartshouse.com/oemparts/a/yam/500392c2f870021f60a0dcd7/steering-handle-cable
+Taillight|https://www.yamahapartshouse.com/oemparts/a/yam/500392c3f870021f60a0dcde/taillight
+Transmission|https://www.yamahapartshouse.com/oemparts/a/yam/500392bef870021f60a0dcc6/transmission
+Water Pump|https://www.yamahapartshouse.com/oemparts/a/yam/500392bcf870021f60a0dcbd/water-pump
+
