@@ -1,2 +1,0 @@
-# Bansheeoem
-Banshee parts
